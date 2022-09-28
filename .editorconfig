@@ -1,0 +1,9 @@
+root = *
+
+[*]
+charset = utf-8
+
+[*.{go, mod}]
+indent_size = 8
+indent_style = tab
+
